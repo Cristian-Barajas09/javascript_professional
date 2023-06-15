@@ -1,0 +1,7 @@
+A lo que entendí es dependiendo la situación, por ejemplo si quieres hacer un programa que diga las tablas de multiplicar de un determinado número una determinada cantidad de veces te recomiendo utilizar iteradores y generadores, ya que con estos controlas de que manera se mostraran en pantalla las tablas, es decir, estos sirven para controlar elñ flujo de tu programa.
+
+Sin embargo los bucles son de gran utilidad si por ejemplo hacer un programa que muestre las tablas de multiplicar del 1 al 10, ya que aquí tienes u dato fijo en el cual no necesitaras controlar el flujo.
+
+En sí la diferencia es que los iteradores y generadores sirven para control grandes cantidades de datos, mientras que los bucles son para operaciones sencillas, esper y me haya dado a entender
+
+Si tienes alguna duda podrías ver este artículo: https://code.tutsplus.com/es/tutorials/using-iterators-and-generators-in-javascript-to-optimize-code--cms-30395
